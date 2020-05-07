@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ab63600-6ef9-4ca1-82a2-1c86232d44cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ahgii89oTBpzP2ZnX7XmM01W5C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/user" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webApp\projects\django\mysite\user" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\webApp\projects\django\mysite\user\templates\user" />
+      <recent name="E:\webApp\projects\django\mysite\user" />
+      <recent name="E:\webApp\projects\django\mysite\blog\templates\blog" />
+      <recent name="E:\webApp\projects\django\mysite\blog\static\blog" />
+      <recent name="E:\webApp\projects\django\mysite\blog\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.mysite" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.aaa" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.aaa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ab63600-6ef9-4ca1-82a2-1c86232d44cb" name="Default Changelist" comment="" />
+      <created>1587193370304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587193370304</updated>
+      <workItem from="1587193413733" duration="13556000" />
+      <workItem from="1587286662127" duration="5205000" />
+      <workItem from="1587312720852" duration="6335000" />
+      <workItem from="1587370814114" duration="9127000" />
+      <workItem from="1587464181452" duration="610000" />
+      <workItem from="1587476672758" duration="14450000" />
+      <workItem from="1587525764916" duration="6544000" />
+      <workItem from="1587649303142" duration="10303000" />
+      <workItem from="1587739261686" duration="6577000" />
+      <workItem from="1587819019348" duration="2416000" />
+      <workItem from="1587823821571" duration="9118000" />
+      <workItem from="1587964495321" duration="12058000" />
+      <workItem from="1587993291968" duration="8387000" />
+      <workItem from="1588043179560" duration="29562000" />
+      <workItem from="1588143821759" duration="6286000" />
+      <workItem from="1588165118888" duration="14119000" />
+      <workItem from="1588218137918" duration="27945000" />
+      <workItem from="1588259076005" duration="3157000" />
+      <workItem from="1588311401989" duration="28300000" />
+      <workItem from="1588398066554" duration="16890000" />
+      <workItem from="1588487450060" duration="13257000" />
+      <workItem from="1588520104050" duration="4858000" />
+      <workItem from="1588568005359" duration="6833000" />
+      <workItem from="1588655828823" duration="18274000" />
+      <workItem from="1588686370235" duration="11014000" />
+      <workItem from="1588741880270" duration="10051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587823119420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587823119420" />
+    <state width="722" height="167" key="GridCell.Tab.0.bottom" timestamp="1587980518256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="722" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587980518256" />
+    <state width="722" height="167" key="GridCell.Tab.0.center" timestamp="1587980518255">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="722" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587980518255" />
+    <state width="722" height="167" key="GridCell.Tab.0.left" timestamp="1587980518247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="722" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587980518247" />
+    <state width="722" height="167" key="GridCell.Tab.0.right" timestamp="1587980518256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="722" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587980518256" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1587193679413">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587193679413" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588742143297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588742143297" />
+    <state x="0" y="0" width="786" height="728" key="find.popup" timestamp="1588170587486">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="786" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1588170587486" />
+    <state x="340" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588695440119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="340" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588695440119" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mysite$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1587196343262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mysite$manage.coverage" NAME="manage Coverage Results" MODIFIED="1587974620976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
